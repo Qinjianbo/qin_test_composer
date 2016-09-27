@@ -1,0 +1,6 @@
+{
+    "name": "qin/composer",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
