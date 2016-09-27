@@ -3,7 +3,7 @@
     "require": {
         "monolog/monolog": "1.0.*"
     },
-
+    "minimum-stability": "stable",
     "autoload": {
        "psr-4": {"Util\\": "src/"}
     }
