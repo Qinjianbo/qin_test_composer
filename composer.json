@@ -1,5 +1,5 @@
 {
-    "name": "qin/composer",
+    "name": "Qinjianbo/qin_test_composer",
     "require": {
         "monolog/monolog": "1.0.*"
     },
