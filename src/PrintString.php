@@ -1,4 +1,5 @@
 <?php
+namespace Util;
 class PrintString
 {
     public function __construct()
