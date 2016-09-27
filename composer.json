@@ -1,5 +1,5 @@
-{
-    "name": "Qinjianbo/qin_test_composer",
+mum-stabilityi{
+    "name": "qinjianbo/qin_test_composer",
     "require": {
         "monolog/monolog": "1.0.*"
     },
